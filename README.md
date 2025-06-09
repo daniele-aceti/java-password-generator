@@ -1,5 +1,7 @@
 # 🔐 Generatore di Password - Java Console
 
+📅 Ultimo aggiornamento 24/01/2025
+
 **Java** • **Random** • **Console App**
 
 > Applicazione Java da terminale che genera password casuali di una lunghezza specificata dall’utente.
